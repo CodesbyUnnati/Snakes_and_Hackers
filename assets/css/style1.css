@@ -13,7 +13,8 @@ html {
 body {
     margin: 0;
     background: radial-gradient(#9D5900, #3D2200);
-  
+    font-family: 'Metal Mania',
+        cursive;
 }
 
 .page-title {
