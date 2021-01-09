@@ -12,6 +12,7 @@ html {
 
 body {
     margin: 0;
+
     background: radial-gradient(#9D5900, #3D2200);
     font-family: 'Metal Mania',
         cursive;
@@ -31,7 +32,7 @@ body {
 }
 
 .game-info {
- 
+
     color: #ddd;
     font-size: 4em;
 }
@@ -94,7 +95,7 @@ body {
     align-items: center;
     z-index: 100;
     color: #FF6D00;
- 
+
 }
 
 .overlay-text-small {
