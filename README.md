@@ -1,5 +1,6 @@
-# Snakes🐍 and Hackers 🎲
+# Snakes🐍 and Hackers 🎲 Hackathon Submission
 
+# Money Potter🎩
 
 <b>Let's see who leads to the bankruptcy of each other and head over to play Monopoly.</b>
 <br>
