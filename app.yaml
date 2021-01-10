@@ -1,0 +1,15 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+handlers:
+- url: /
+  static_files: app/index.html
+  upload: app/index.html
+- url: /
+  static_files: app/index2.html
+  upload: app/index2.html
+- url: /
+  static_files: app/mix_match.html
+  upload: app/mix_match.html
+- url: /
+  static_dir: app
