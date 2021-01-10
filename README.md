@@ -1,7 +1,7 @@
-# Snakes_and_Hackers
+# Snakes🐍 and Hackers 🪜
 
 
-<b></b>
+<b>Let's see who leads to the bankruptcy of each other and head over to play Monopoly.</b>
 <br>
 
 <b><a href="https://moneypotter.uc.r.appspot.com/">CHECK LIVE</a></b>
@@ -14,9 +14,9 @@
 <br>
 
 <h1>Features</h1>
-<li></li>
-<li></li>
-<li></li>
+<li>Digital Monopoly board game.</li>
+<li>Mix-Match Card matching game.</li>
+<li>Multiplayer Game</li>
 
 
 <br>
@@ -28,6 +28,8 @@
 <li>JavaScript</li>
 <li>JQuery</li>
 <li>Angular</li>
+<li>GitHub</li>
+<li>Google Cloud Platform</li>
 
 
 
