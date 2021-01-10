@@ -1,4 +1,4 @@
-# Snakes🐍 and Hackers 🪜
+# Snakes🐍 and Hackers 🎲
 
 
 <b>Let's see who leads to the bankruptcy of each other and head over to play Monopoly.</b>
